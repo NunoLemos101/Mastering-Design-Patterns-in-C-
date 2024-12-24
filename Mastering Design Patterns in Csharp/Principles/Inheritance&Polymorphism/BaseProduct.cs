@@ -1,4 +1,4 @@
-namespace Mastering_Design_Patterns_in_Csharp.Inheritance_Polymorphism;
+namespace Mastering_Design_Patterns_in_Csharp.Principles.Inheritance_Polymorphism;
 
 public abstract class BaseProduct
 { 

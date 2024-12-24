@@ -1,4 +1,4 @@
-namespace Mastering_Design_Patterns_in_Csharp.Encapsulation;
+namespace Mastering_Design_Patterns_in_Csharp.Principles.Encapsulation;
 
 
 public class BankAccount

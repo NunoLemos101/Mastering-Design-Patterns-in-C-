@@ -8,4 +8,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Principles\" />
+      <Folder Include="SOLID\D\" />
+      <Folder Include="SOLID\L\" />
+    </ItemGroup>
+
 </Project>

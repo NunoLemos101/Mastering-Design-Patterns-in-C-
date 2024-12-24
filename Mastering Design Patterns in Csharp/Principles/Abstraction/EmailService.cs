@@ -1,4 +1,4 @@
-namespace Mastering_Design_Patterns_in_Csharp.Abstraction;
+namespace Mastering_Design_Patterns_in_Csharp.Principles.Abstraction;
 
 public class EmailService
 {
