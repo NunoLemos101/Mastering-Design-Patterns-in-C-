@@ -14,4 +14,16 @@
       <Folder Include="SOLID\L\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="DesignPatterns\Behavioral\Template\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="DesignPatterns\Behavioral\Template\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="DesignPatterns\Behavioral\Template\**" />
+    </ItemGroup>
+
 </Project>
