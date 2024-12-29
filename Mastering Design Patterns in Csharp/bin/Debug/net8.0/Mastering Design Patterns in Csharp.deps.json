@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mastering Design Patterns in Csharp/1.0.0": {
+        "runtime": {
+          "Mastering Design Patterns in Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mastering Design Patterns in Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

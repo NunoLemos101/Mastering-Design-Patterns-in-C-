@@ -1,0 +1,15 @@
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/bin/Debug/net8.0/Mastering Design Patterns in Csharp
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/bin/Debug/net8.0/Mastering Design Patterns in Csharp.deps.json
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/bin/Debug/net8.0/Mastering Design Patterns in Csharp.runtimeconfig.json
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/bin/Debug/net8.0/Mastering Design Patterns in Csharp.dll
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/bin/Debug/net8.0/Mastering Design Patterns in Csharp.pdb
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.AssemblyInfoInputs.cache
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.AssemblyInfo.cs
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.csproj.CoreCompileInputs.cache
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.sourcelink.json
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.dll
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/refint/Mastering Design Patterns in Csharp.dll
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.pdb
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/Mastering Design Patterns in Csharp.genruntimeconfig.cache
+/Users/nunolemos/RiderProjects/Mastering Design Patterns in Csharp/Mastering Design Patterns in Csharp/obj/Debug/net8.0/ref/Mastering Design Patterns in Csharp.dll
