@@ -14,11 +14,6 @@ public static class ShapeFactoryProvider
         RegisterFactory<Triangle>(new TriangleFactory());
     }
     
-    public static void RegisterFactory<T>(IShapeFactory<IShape> factory)
-    {
-        Factories[typeof(T)] = factory;
-    }
-    
     public static IShapeFactory<T> GetFactory<T>() where T : IShape
     {
         if (TryGetFactory<T>(out var factory))
@@ -30,6 +25,11 @@ public static class ShapeFactoryProvider
             throw new InvalidCastException($"Factory registered for type {typeof(T).Name} does not implement IShapeFactory<T>");
         }
         throw new ArgumentException($"No factory registered for type {typeof(T).Name}");
+    }
+    
+    private static void RegisterFactory<T>(IShapeFactory<IShape> factory)
+    {
+        Factories[typeof(T)] = factory;
     }
     
     private static bool TryGetFactory<T>(out IShapeFactory factory) where T : IShape

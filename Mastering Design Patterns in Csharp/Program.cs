@@ -7,5 +7,5 @@ Console.WriteLine("Hello, World!");
 
 var factory = ShapeFactoryProvider.GetFactory<Circle>();
 
-var c = factory.Create();
-var co = factory.CreateAsObject();
+var shape = factory.Create();
+var circle = factory.CreateAsObject();
